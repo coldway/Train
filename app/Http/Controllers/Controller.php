@@ -12,4 +12,7 @@ class Controller extends BaseController
     use AuthorizesRequests, DispatchesJobs, ValidatesRequests;
     private $dfjkfjf= null;
     private $dfjkfjf= null;
+    private $dfjkfjf= null;
+    private $dfjkfjf= null;
+    
 }
